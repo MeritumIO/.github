@@ -18,3 +18,10 @@ Meritum is a collection of composable PHP libraries built on the principle of _n
 | [meritum/serialization](https://github.com/MeritumIO/serialization)                   | Pluggable object serialization with item, collection, and pagination support                             | ![Packagist Version](https://img.shields.io/packagist/v/meritum/serialization)          |
 | [meritum/http-exception-handler](https://github.com/MeritumIO/http-exception-handler) | Translates exceptions into structured JSON error responses using the meritum/structured-logging pipeline | ![Packagist Version](https://img.shields.io/packagist/v/meritum/http-exception-handler) |
 | [meritum/bus-module](https://github.com/MeritumIO/bus-module)                         | Meritum module for bootstrapping georgeff/bus into the kernel ecosystem                                  | ![Packagist Version](https://img.shields.io/packagist/v/meritum/bus-module)             |
+
+## Scaffolds
+
+| Scaffold                                                  | Description                                              |
+| --------------------------------------------------------- | -------------------------------------------------------- |
+| [meritum/sage](https://github.com/MeritumIO/sage)         | `composer create-project` starter for CLI applications   |
+| [meritum/virtus](https://github.com/MeritumIO/virtus)     | `composer create-project` starter for HTTP APIs          |
