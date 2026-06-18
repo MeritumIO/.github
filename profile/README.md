@@ -4,6 +4,8 @@ Meritum is a collection of composable PHP libraries built on the principle of _n
 
 [Read the full philosophy →](https://dev.to/georgeff/natural-aristoi-h6j)
 
+[Documentation →](https://meritum.georgeff.co)
+
 ## Packages
 
 | Package                                                                               | Description                                                                                              | Version                                                                                 |
