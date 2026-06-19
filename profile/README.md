@@ -22,7 +22,7 @@ Meritum is a collection of composable PHP libraries built on the principle of _n
 
 ## Scaffolds
 
-| Scaffold                                              | Description                                            |
-| ----------------------------------------------------- | ------------------------------------------------------ |
-| [meritum/sage](https://github.com/MeritumIO/sage)     | `composer create-project` starter for CLI applications |
-| [meritum/virtus](https://github.com/MeritumIO/virtus) | `composer create-project` starter for HTTP APIs        |
+| Scaffold                                              | Description                                            | Version                                                                    |
+| ----------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------- |
+| [meritum/sage](https://github.com/MeritumIO/sage)     | `composer create-project` starter for CLI applications | ![Packagist Version](https://img.shields.io/packagist/v/meritum/sage)     |
+| [meritum/virtus](https://github.com/MeritumIO/virtus) | `composer create-project` starter for HTTP APIs        | ![Packagist Version](https://img.shields.io/packagist/v/meritum/virtus)   |
