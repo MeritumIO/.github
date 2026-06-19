@@ -26,3 +26,9 @@ Meritum is a collection of composable PHP libraries built on the principle of _n
 | ----------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------- |
 | [meritum/sage](https://github.com/MeritumIO/sage)     | `composer create-project` starter for CLI applications | ![Packagist Version](https://img.shields.io/packagist/v/meritum/sage)     |
 | [meritum/virtus](https://github.com/MeritumIO/virtus) | `composer create-project` starter for HTTP APIs        | ![Packagist Version](https://img.shields.io/packagist/v/meritum/virtus)   |
+
+## Integrations
+
+| Package                                                                   | Description                                              | Version                                                                         |
+| ------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| [meritum/bus-module](https://github.com/MeritumIO/bus-module)             | Kernel module integrating georgeff/bus into the Meritum ecosystem | ![Packagist Version](https://img.shields.io/packagist/v/meritum/bus-module) |
