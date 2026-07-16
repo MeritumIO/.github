@@ -20,6 +20,14 @@ Meritum is a collection of composable PHP libraries built on the principle of _n
 | [meritum/serialization](https://github.com/MeritumIO/serialization)                   | Pluggable object serialization with item, collection, and pagination support                                                                                                                         | ![Packagist Version](https://img.shields.io/packagist/v/meritum/serialization)          |
 | [meritum/http-exception-handler](https://github.com/MeritumIO/http-exception-handler) | Translates exceptions into structured JSON error responses using the meritum/structured-logging pipeline                                                                                             | ![Packagist Version](https://img.shields.io/packagist/v/meritum/http-exception-handler) |
 
+## Testing
+
+| Package                                                          | Description                                                                                                             | Version                                                                        |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [meritum/testing](https://github.com/MeritumIO/testing)           | Test kernel orchestration — boots and tears down app kernels under test, applies service overrides and mocks before boot | ![Packagist Version](https://img.shields.io/packagist/v/meritum/testing)         |
+| [meritum/model-factory](https://github.com/MeritumIO/model-factory) | Model factory builder — Faker-backed attribute sets for meritum/database models, built or persisted in tests and seeders | ![Packagist Version](https://img.shields.io/packagist/v/meritum/model-factory)   |
+| [meritum/http-testing](https://github.com/MeritumIO/http-testing) | HTTP request/response testing helpers — builds a PSR-7 request, drives it through any PSR-15 RequestHandlerInterface, and wraps the response for assertions | ![Packagist Version](https://img.shields.io/packagist/v/meritum/http-testing) |
+
 ## Scaffolds
 
 | Scaffold                                              | Description                                            | Version                                                                    |
